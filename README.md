@@ -50,3 +50,16 @@ Moreover, two new parameters are beeing observed in the dataset.
 ## Positions_v3
 
 This dataset is the same as the Postions_v2, however the simulations steps performed are every 1s as the Positions_v1.
+
+## Positions_v5
+
+This dataset uses the same scenario as Positions_v2, but with larger routes for the vehilces and a larger time of simulation.
+
+## Barcelona_v2
+
+Dataset generated in a new and bigger scenario. It is located in Sant Gervasi Barcelona. Dataset provided with a realistic approax,
+with the vehicles beeing loger times in the simulation and circulating more in the principal hayways. 
+
+Each simulation step of the simulation is every 1s. 
+
+The dataset is divided in two but they can be glued together again after downloading and decomprising. 
